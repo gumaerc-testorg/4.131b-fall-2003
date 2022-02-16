@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Boat Building as a Tectonic/Material Transformation assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/5c5209b92436797938bfac67a9e3cb0f_ex2tectonic.pdf
+file: /media/courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/5c5209b92436797938bfac67a9e3cb0f_ex2tectonic.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ex2tectonic.pdf
 uid: 5c5209b9-2436-7979-38bf-ac67a9e3cb0f
