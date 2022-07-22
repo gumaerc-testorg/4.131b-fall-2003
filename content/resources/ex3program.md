@@ -5,6 +5,7 @@ file: /courses/4-131b-architectural-design-level-ii-material-and-tectonic-transf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ex3program.pdf
 uid: 0f08d130-6797-7ed5-9d25-73fc9695768f
 ---
 Boat Building as a Tectonic/Material Transformation assignment.
-

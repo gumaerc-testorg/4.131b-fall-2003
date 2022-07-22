@@ -5,6 +5,7 @@ file: /courses/4-131b-architectural-design-level-ii-material-and-tectonic-transf
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final.pdf
 uid: 230167bb-462f-c699-f441-da4843d1ff78
 ---
 Design illustrations and final presentation boards.
-
