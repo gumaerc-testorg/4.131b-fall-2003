@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides an introduction to the course and information
+  on meeting times, boats and building, the search for a tectonic language, the site
+  and program, and course process.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ad4288d4-9425-8dc1-0eb7-e744a7f37945
 ---
