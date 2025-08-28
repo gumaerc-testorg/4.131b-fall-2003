@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Design illustrations and final presentation boards.
-file: /courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/230167bb462fc699f441da4843d1ff78_final.pdf
+file: /ol-ocw-studio-app/courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/230167bb462fc699f441da4843d1ff78_final.pdf
 file_size: 1327441
 file_type: application/pdf
 learning_resource_types:
